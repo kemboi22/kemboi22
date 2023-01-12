@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - twitter => https://twitter.com/Kemboielvis22
-- gmail => kemboilvis22@gmail.com
+- gmail => kemboielvis22@gmail.com
 - linkedIn => https://www.linkedin.com/in/kemboi-elvis-ab7a431b2
 - instagram => https://www.instagram.com/chemboy_one/
 - 
