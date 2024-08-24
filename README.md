@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Am a php, laravel , typescript, vuejs developer.<br>A server admin and collaborationg with nethserver to make modules for ease deployment
-
+I create modules for nethserver using docker, podman and shell
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kemboi-elvis-ab7a431b2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kemboielvis22) 
