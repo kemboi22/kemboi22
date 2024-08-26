@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemboi ELvis</h1>
-<h3 align="center">A passionate fullstack developer from kenya</h3>
+<h3 align="center">A fullstack developer from kenya</h3>
 
 # 💫 About Me:
 Am a php, laravel , typescript, vuejs developer.<br>A server admin and collaborationg with nethserver to make modules for ease deployment
